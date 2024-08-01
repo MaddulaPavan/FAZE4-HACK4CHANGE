@@ -1,0 +1,7 @@
+SpeechRecognition
+googletrans==3.1.0a0
+textblob
+nltk
+tensorflow
+gtts
+gradio
