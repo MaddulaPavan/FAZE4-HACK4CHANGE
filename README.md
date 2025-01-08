@@ -1,4 +1,4 @@
-# Advanced Multi-Faceted Chatbot Chatbot
+# Multi-Faceted Chatbot 
 
 
 The Advanced Multi-Faceted Chatbot is a versatile tool that combines natural language processing, translation, and speech recognition technologies. It's designed to interact with users through text or audio input, providing a range of language-related services.
