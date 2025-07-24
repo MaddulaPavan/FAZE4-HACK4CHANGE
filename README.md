@@ -6,14 +6,16 @@ The Advanced Multi-Faceted Chatbot is a versatile tool that combines natural lan
 
 ## Features
 
-- Multilingual support for text translation
-- Speech recognition for voice input
-- Text-to-speech conversion for audio output
-- Emotion detection to enhance user interaction
-- Basic voice command functionality
+-> Multilingual support for text translation
 
-## Contact
+-> Speech recognition for voice input
 
-pavanmaddula44@gmail.com
+-> Text-to-speech conversion for audio output
+
+-> Emotion detection to enhance user interaction
+
+-> Basic voice command functionality
+
+
 
 
